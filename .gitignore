@@ -1,0 +1,16 @@
+#Strange files created by OSX that contain things like icons
+.DS_Store
+
+#Don't compiled python files
+*.pyc
+
+# Don't track checkpoint directories
+.ipynb_checkpoints/
+.ipynb_checkpoint/
+
+#Don't track csvs
+*.csv
+
+# Don't track pickles
+*.pkl
+*.pickle
