@@ -496,8 +496,6 @@ for x in al_more_problem_articles:
         pass
 all_articles = al_list_o_articles + al_more_list_o_articles
 
-#puts articles all into one list
-all_articles = mj_list_o_articles + mj_more_list_o_articles
 #starts client in Mongodb
 client = MongoClient()
 biased_news = client.project5.biased_news
