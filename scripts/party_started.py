@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 import numpy as np
 
-text_w_no_nouns = pickle.load(open("/Users/NickThomas/Project5/pickle_files/text_w_no_nouns.pkl", "rb" ))
+text_w_no_nouns = pickle.load(open("text_w_no_nouns.pkl", "rb" ))
 
 short_text = []
 clear = []
