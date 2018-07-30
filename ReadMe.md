@@ -9,12 +9,9 @@
 * Anaconda
 * Requests
 * BeautifulSoup
-* Time
 * Selenium
 * Pickle
 * Matplotlib
-* Scipy
-* Math
 * NLTK
 
 
